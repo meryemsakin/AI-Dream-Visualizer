@@ -1,0 +1,17 @@
+# requirements.txt
+torchaudio>=2.0.0
+gradio>=4.0
+diffusers>=0.25
+TTS>=0.22.0
+opencv-python>=4.8
+python-dotenv>=1.0
+ffmpeg-python>=0.2.0
+numpy>=1.21.0
+tqdm>=4.65.0
+einops>=0.6.1
+hydra-core>=1.1
+julius>=0.2.7
+flashy>=0.0.1
+spacy>=3.6.1
+transformers>=4.31.0
+audiocraft>=1.0
